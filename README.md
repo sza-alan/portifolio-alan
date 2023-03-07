@@ -2,4 +2,4 @@
 
 alert('Sejam muito bem vindos ao meu portifólio');
 
-console.log('Ainda aprendendendo');
+console.log('Ainda aprendendo');
